@@ -7,7 +7,7 @@ Para ejecutarlo debes seguir los siguientes pasos:
 1. Mover el archivo `image-payload/images/imagen_payload_small_bw.bmp` a tu tarjeta SD con la ruta `sd:/asturcon.bmp`
 2. Poner tu switch en [Modo RCM](https://switch.hacks.guide/user_guide/rcm/entering_rcm/) o usar una con modchip instalado.
 3. Envía el payload almacenado en `output/ImagePayload.bin` con cualquier lanzador de payloads de Nintendo Switch como [JTegraNX](https://github.com/dylwedma11748/JTegraNX)
-# Compilar
+# Compilado
 Para compilarlo, debes utilizar una máquina Linux (Preferiblemente Ubuntu) o WSL para Windows,
 1. Instalar [dkp-pacman](https://devkitpro.org/wiki/devkitPro_pacman)
 2. Añadir al path:
