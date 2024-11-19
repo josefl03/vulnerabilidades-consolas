@@ -1,6 +1,7 @@
 # Explotando Vulnerabilidades en Consolas de Videojuegos
  Este repositorio contiene la presentación y la información mencionada en la conferencia "***Explotando Vulnerabilidades en Consolas de Videojuegos***", que se llevó a cabo en la [AsturCON.tech](https://asturcon.tech/) el **8 de Noviembre de 2024** en **Avilés**.
- ![[banner.png]]
+
+![banner](https://github.com/user-attachments/assets/521376ce-da63-4e89-8463-037f5a2e90ea)
 # Materiales
 **Presentación**: [Google Slides](https://docs.google.com/presentation/d/1NGB3Oazw3SAv7Olow2h5vGKE30gEoAXohU6n8PbAEGQ/edit?usp=sharing), también disponible en [PDF](presentacion.pdf),
 
