@@ -5,7 +5,7 @@
 # Materiales
 **Presentación**: [Google Slides](https://docs.google.com/presentation/d/1NGB3Oazw3SAv7Olow2h5vGKE30gEoAXohU6n8PbAEGQ/edit?usp=sharing), también disponible en [PDF](presentacion.pdf),
 
-**Fuentes** y demás **información**: Sección [Información y Enlaces](#información-y-enlaces)
+**Fuentes** y demás **información**: Sección [#Información y Enlaces](#información-y-enlaces)
 
 **Programas** de la Nintendo Switch:
 - [image-payload](image-payload/): Para mostrar el logo de la conferencia
